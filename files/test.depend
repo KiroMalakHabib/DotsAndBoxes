@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1513847526 source:e:\engineering\computer engneering 1st year\1-programming\my growth\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+
